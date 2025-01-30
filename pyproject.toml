@@ -1,0 +1,14 @@
+[project]
+name = "langgraph-k8s-security-audit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kubernetes>=31.0.0",
+    "langchain-core>=0.3.31",
+    "langchain-openai>=0.3.1",
+    "langgraph>=0.2.65",
+    "python-dotenv>=1.0.1",
+    "pyyaml>=6.0.2",
+]
