@@ -1,0 +1,5 @@
+echo "langgraph
+fastapi
+uvicorn
+kubernetes
+prometheus-client" >> requirements.txt
