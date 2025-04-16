@@ -1,0 +1,8 @@
+langgraph
+fastapi
+uvicorn
+kubernetes
+python-dotenv
+
+prometheus-client 
+
