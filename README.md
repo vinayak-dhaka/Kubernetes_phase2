@@ -49,7 +49,7 @@ The project achieves **full-cycle resilience** by combining **predictive intelli
 
 ##  Setup & Running the Project
 
-Follow these steps to set up the environment and run the remediation agent:
+Follow these stepss to set up the environment and run the remediation agent:
 
 
 
